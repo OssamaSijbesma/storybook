@@ -1,3 +1,13 @@
+## 7.5.0-alpha.2
+
+- Angular: Categorize legacy build options error - [#24014](https://github.com/storybookjs/storybook/pull/24014), thanks [@yannbf](https://github.com/yannbf)!
+- Builder-Webpack5: Categorize builder error - [#24031](https://github.com/storybookjs/storybook/pull/24031), thanks [@yannbf](https://github.com/yannbf)!
+- CLI: Improve sanitization logic in crash reports - [#24028](https://github.com/storybookjs/storybook/pull/24028), thanks [@yannbf](https://github.com/yannbf)!
+- Maintenance: Add more context to explanation in core-events errors - [#24063](https://github.com/storybookjs/storybook/pull/24063), thanks [@yannbf](https://github.com/yannbf)!
+- NextJS: Fix Image Context reuse (ensure singleton by externalizing it) - [#23881](https://github.com/storybookjs/storybook/pull/23881), thanks [@martinnabhan](https://github.com/martinnabhan)!
+- Source-loader: Fix property key validation - [#24068](https://github.com/storybookjs/storybook/pull/24068), thanks [@MrZillaGold](https://github.com/MrZillaGold)!
+- Vue3: Remove console.log in sourceDecorator - [#24062](https://github.com/storybookjs/storybook/pull/24062), thanks [@oruman](https://github.com/oruman)!
+
 ## 7.5.0-alpha.1
 
 - Core: Add CJS entrypoints to errors in core events - [#24038](https://github.com/storybookjs/storybook/pull/24038), thanks [@yannbf](https://github.com/yannbf)!
